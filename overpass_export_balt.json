@@ -1,0 +1,376 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-11-18T21:53:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/671113",
+      "properties": {
+        "@id": "node/671113",
+        "is_in:continent": "North America",
+        "is_in:country": "USA",
+        "name": "Baltimore",
+        "name:az": "Baltimor",
+        "name:be": "Горад Балтымар",
+        "name:fr": "Baltimore",
+        "name:ja": "ボルチモア",
+        "name:ru": "Балтимор",
+        "place": "city",
+        "population": "621342",
+        "website": "http://www.baltimorecity.gov/",
+        "wikipedia": "en:Baltimore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6108073,
+          39.2908608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/52250916",
+      "properties": {
+        "@id": "node/52250916",
+        "created_by": "Potlatch 0.10d",
+        "gns:ADM1": "04",
+        "gns:CC1": "EI",
+        "gns:DMS_LAT": "512900",
+        "gns:DMS_LONG": "-92200",
+        "gns:DSG": "PPL",
+        "gns:FC": "P",
+        "gns:JOG": "NM29-02",
+        "gns:LAT": "51.483333",
+        "gns:LONG": "-9.366667",
+        "gns:MGRS": "29UMT7453903639",
+        "gns:N:eng:FULL_NAME": "Baltimore",
+        "gns:N:eng:FULL_NAME_ND": "Baltimore",
+        "gns:N:eng:LC": "eng",
+        "gns:N:eng:MODIFY_DATE": "1997-10-22",
+        "gns:N:eng:NT": "N",
+        "gns:N:eng:SORT_NAME": "BALTIMORE",
+        "gns:N:gle:FULL_NAME": "Dún na Séad",
+        "gns:N:gle:FULL_NAME_ND": "Dun na Sead",
+        "gns:N:gle:LC": "gle",
+        "gns:N:gle:MODIFY_DATE": "1997-10-22",
+        "gns:N:gle:NT": "N",
+        "gns:N:gle:SORT_NAME": "DUNNASEAD",
+        "gns:RC": "1",
+        "gns:UFI": "-1500742",
+        "gns:UNI": "420543",
+        "is_in": "County Cork",
+        "name": "Baltimore",
+        "name:en": "Baltimore",
+        "name:ga": "Dún na Séad",
+        "note": "Experimental import of Irish places and POIs from GNS Dataset",
+        "place": "village",
+        "place_county": "Cork",
+        "source": "gns_ei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3732052,
+          51.4833209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/153483121",
+      "properties": {
+        "@id": "node/153483121",
+        "ele": "125",
+        "gnis:Class": "Populated Place",
+        "gnis:County": "Graves",
+        "gnis:County_num": "083",
+        "gnis:ST_alpha": "KY",
+        "gnis:ST_num": "21",
+        "gnis:id": "507446",
+        "import_uuid": "bb7269ee-502a-5391-8056-e3ce0e66489c",
+        "is_in": "Graves,Kentucky,Ky.,KY,USA",
+        "name": "Baltimore",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.805889,
+          36.6875581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/153876695",
+      "properties": {
+        "@id": "node/153876695",
+        "ele": "397",
+        "gnis:Class": "Populated Place",
+        "gnis:County": "Cocke",
+        "gnis:County_num": "029",
+        "gnis:ST_alpha": "TN",
+        "gnis:ST_num": "47",
+        "gnis:id": "1327498",
+        "import_uuid": "bb7269ee-502a-5391-8056-e3ce0e66489c",
+        "is_in": "Cocke,Tennessee,Tenn.,TN,USA",
+        "name": "Baltimore",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0593197,
+          35.9842662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/154022639",
+      "properties": {
+        "@id": "node/154022639",
+        "ele": "280",
+        "gnis:Class": "Populated Place",
+        "gnis:County": "Yadkin",
+        "gnis:County_num": "197",
+        "gnis:ST_alpha": "NC",
+        "gnis:ST_num": "37",
+        "gnis:id": "1731800",
+        "import_uuid": "bb7269ee-502a-5391-8056-e3ce0e66489c",
+        "is_in": "Yadkin,North Carolina,N.C.,NC,USA",
+        "name": "Baltimore",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5297809,
+          36.1479157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/154196553",
+      "properties": {
+        "@id": "node/154196553",
+        "census:population": "2937;2006",
+        "ele": "263",
+        "gnis:Class": "Populated Place",
+        "gnis:County": "Fairfield",
+        "gnis:County_num": "045",
+        "gnis:ST_alpha": "OH",
+        "gnis:ST_num": "39",
+        "gnis:id": "1064378",
+        "import_uuid": "bb7269ee-502a-5391-8056-e3ce0e66489c",
+        "is_in": "Fairfield,Ohio,Ohio,OH,USA",
+        "name": "Baltimore",
+        "place": "village",
+        "population": "2937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6007185,
+          39.8453418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/158227951",
+      "properties": {
+        "@id": "node/158227951",
+        "ele": "362",
+        "gnis:Class": "Populated Place",
+        "gnis:County": "Cortland",
+        "gnis:County_num": "023",
+        "gnis:ST_alpha": "NY",
+        "gnis:ST_num": "36",
+        "gnis:id": "942957",
+        "import_uuid": "bb7269ee-502a-5391-8056-e3ce0e66489c",
+        "is_in": "Cortland,New York,N.Y.,NY,USA",
+        "name": "Baltimore",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1257596,
+          42.7353458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/158584594",
+      "properties": {
+        "@id": "node/158584594",
+        "ele": "21",
+        "gnis:Class": "Populated Place",
+        "gnis:County": "Bladen",
+        "gnis:County_num": "017",
+        "gnis:ST_alpha": "NC",
+        "gnis:ST_num": "37",
+        "gnis:id": "980508",
+        "import_uuid": "bb7269ee-502a-5391-8056-e3ce0e66489c",
+        "is_in": "Bladen,North Carolina,N.C.,NC,USA",
+        "name": "Baltimore",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4402834,
+          34.4365586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/158903539",
+      "properties": {
+        "@id": "node/158903539",
+        "census:population": "261;2006",
+        "ele": "331",
+        "gnis:Class": "Populated Place",
+        "gnis:County": "Windsor",
+        "gnis:County_num": "027",
+        "gnis:ST_alpha": "VT",
+        "gnis:ST_num": "50",
+        "gnis:id": "1456238",
+        "import_uuid": "bb7269ee-502a-5391-8056-e3ce0e66489c",
+        "is_in": "Windsor,Vermont,Vt.,VT,USA",
+        "name": "Baltimore",
+        "place": "village",
+        "population": "261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5731478,
+          43.360351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/316964641",
+      "properties": {
+        "@id": "node/316964641",
+        "is_in": "Maryland,Md.,MD,USA",
+        "name": "Baltimore",
+        "name:ru": "Балтимор",
+        "place": "county"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5551654,
+          39.4331298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559366649",
+      "properties": {
+        "@id": "node/559366649",
+        "is_in": "Limpopo, South Africa",
+        "name": "Baltimore",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4427525,
+          -23.2665714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703220360",
+      "properties": {
+        "@id": "node/703220360",
+        "comment": "convertido a OSM usando http://GaleNUx.com",
+        "divipola": "73622",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Tolima ; Roncesvalles",
+        "name": "Baltimore",
+        "note": "GEOPUNTO, PUNTO DE INTERES, 8cee31de6e0373843b2852c4782d5758",
+        "place": "locality",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5878239,
+          4.1035711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/703316908",
+      "properties": {
+        "@id": "node/703316908",
+        "comment": "convertido a OSM usando http://GaleNUx.com",
+        "divipola": "23570",
+        "fixme": "Revisar: este punto fue creado por importación directa",
+        "is_in": "Colombia; Córdoba ; Pueblo Nuevo",
+        "name": "Baltimore",
+        "note": "GEOPUNTO, PUNTO DE INTERES, 5cf0b4ed24dec753c3ac1c33320ee160",
+        "place": "locality",
+        "source": "OCHA Colombia 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5377812,
+          8.4564026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1620876098",
+      "properties": {
+        "@id": "node/1620876098",
+        "fixme": "Place type may not be valid",
+        "name": "Baltimore",
+        "place": "locality",
+        "source": "NRCan-CanVec-8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8086963,
+          45.8866397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2312204462",
+      "properties": {
+        "@id": "node/2312204462",
+        "name": "Baltimore",
+        "place": "farm",
+        "source": "Bing",
+        "source:name": "sign at road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5857645,
+          -34.9149857
+        ]
+      }
+    }
+  ]
+}
